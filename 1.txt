@@ -3,6 +3,21 @@ file 1
 
 clone -> download dari github/gitlab/gitbucket
 status -> cek status changes di local
+add -> 
 commit -> di konfirmasi udah sah
 pull -> download perubahan dari github/gitlab/gitbucket
 push -> upload ke github/gitlab/gitbucket
+
+
+
+tingkatan: 
+changes
+staged
+
+
+main -> utama
+testing -> test
+fitur1 -> branch fitur
+fitur2 -> branch fitur
+fitur3 -> branch fitur
+fitur4 -> branch fitur
