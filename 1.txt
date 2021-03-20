@@ -23,4 +23,4 @@ fitur3 -> branch fitur
 fitur4 -> branch fitur
 
 
-CI/CD -> continues Integration continues deliveri
+CI/CD -> continues integration continues deliveri
