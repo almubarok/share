@@ -8,7 +8,7 @@ commit -> di konfirmasi udah sah
 pull -> download perubahan dari github/gitlab/gitbucket
 push -> upload ke github/gitlab/gitbucket
 
-
+tambahan yg ingin di comit
 
 tingkatan: 
 changes
