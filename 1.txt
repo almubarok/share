@@ -15,9 +15,12 @@ changes
 staged
 
 
-main -> utama
-testing -> test
+main -> utama -> server production
+testing -> test -> server testing
 fitur1 -> branch fitur
 fitur2 -> branch fitur
 fitur3 -> branch fitur
 fitur4 -> branch fitur
+
+
+CI/CD -> continues Integration continues deliveri
