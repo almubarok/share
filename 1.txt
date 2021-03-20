@@ -1,5 +1,6 @@
 file 1
 
+tidak ingin di commit
 
 clone -> download dari github/gitlab/gitbucket
 status -> cek status changes di local
@@ -28,5 +29,7 @@ CI/CD -> continues integration continues deliveri
 
 ubah dari brnach main
 
+
+tambahan yg ga ingin di commit
 
 tasdadasd

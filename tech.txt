@@ -1,0 +1,30 @@
+NodeJS
+
+
+JavaScript
+TypeScript : bahasa JavaScript rewel yg soal tipe data
+
+
+TypeScript -> compile -> JavaScript 
+program jalan -> JavaScript
+
+
+BACK END
+- rest api 
+  - get -> ambil data
+  - post -> nambah data
+  - put -> update data
+  - delete -> hapus data
+  + socket
+
+- graphql 
+  - query -> ambil data
+  - mutation -> modifikasi data (create, update, delete)
+  - subscription -> realtime data
+ApolloClient
+ApolloServer
+
+FRONT END:
+- NextJS -> React
+- NuxtJS -> Vue
+- Angular
