@@ -17,10 +17,20 @@ BACK END
   - delete -> hapus data
   + socket
 
+framework (JS): 
+  - express
+  - fastify
+  - nestjs (express, fastify)
+  - loopback
+
 - graphql 
   - query -> ambil data
   - mutation -> modifikasi data (create, update, delete)
   - subscription -> realtime data
+
+framework (JS): 
+  - ApolloServer
+
 ApolloClient
 ApolloServer
 
@@ -28,3 +38,16 @@ FRONT END:
 - NextJS -> React
 - NuxtJS -> Vue
 - Angular
+
+
+
+DATABASE:
+- SQL: -> table
+    - MySql
+    - Postgres
+    - slqlite
+    - 
+
+- NoSql: -> document
+    - mongodb
+    
