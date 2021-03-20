@@ -24,3 +24,6 @@ fitur4 -> branch fitur
 
 
 CI/CD -> continues integration continues deliveri
+
+
+ubah dari brnach main
